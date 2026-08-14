@@ -1,4 +1,4 @@
-# English vs. German Media Framing of Germany's Skilled-Worker Shortage
+# English vs German Media Framing of Germany's Skilled-Worker Shortage
 
 A comparative discourse analysis project examining how English-language and
 German-language news coverage frame Germany's *Fachkräftemangel*
